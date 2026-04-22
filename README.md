@@ -1,13 +1,13 @@
-# Chapter-14-Programming-Exercise-14.1
-Exercise14_01/  ├─ src/  │   └─ Exercise14_01.java  └─ images/      ├─ germany.png      ├─ china.png      ├─ france.png      └─ us.png
-Exercise 14.1 - Display Images
+# Exercise 14.1 - Display Images
 
-This JavaFX program displays four images in a GridPane.
+This JavaFX program displays four images in a GridPane layout.
 
-## Files
-- Exercise14_01.java
-- images folder
-
-## Requirements
+## Technologies
 - Java
 - JavaFX
+
+## How to Run
+Run Exercise14_01.java in an IDE with JavaFX configured.
+
+## Output
+Displays 4 images in a 2x2 grid.
